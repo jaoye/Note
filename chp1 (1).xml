@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+<string name="chp1_11_1__a">Location 11 – A Tower
+
+This tower overlooks the Wire Road that trails up to Bastone. The guards grudgingly let you investigate the area. It actually seems to be one of the better kept areas and you are followed cautiously while you ask a few questions and poke around. It is soon clear that nothing here is out of order.
+
+
+Choose a location to go to:</string>
+  <string name="chp1_12_1__a">Location 12 – The Market
+
+The Market square is filled with vendors hawking wares from carts and tables. The sounds of people shouting and the smell of smoked meats and root vegetables fill the air. Dozens of hunched and tired shoulders make their way from one trade to the next.
+
+You split up and casually shop the meager food supplies while keeping your eyes and ears open.</string>
+  <string name="chp1_12_1__c">After nearly an hour, you regroup. The tales you hear shed some light on the situation if only by the absence of anything specific. No one recalls a killing on this side of town. Everyone is tired. They complain of fearful dreams and eyes in the dark keeping them awake at night. A tinkerer hung himself in his kitchen last week. Many blame the dreams for driving him mad, though others say it is just the way of the world.
+
+
+Choose a location to go to:</string>
+  <string name="chp1_13_1__a">Location 13 – The Broken Oak
+
+A well-tended inn shows promise. Entering, you find an amber fire glowing in the hearth. It is warm, dry and seemingly inviting.
+
+"Pot's Peace!" a burly man says smiling. His eyes are slightly distant, revealing that his attitude may come more from a bottle than his heart. "The yams are fresh and the rum's dark as the Deepwood."
+
+A newcomer steps up beside him. "Things are not fresh just because they are green, Bram, especially if they're supposed to be yellow." He turns to you. "He tries at least and he's not lying about the rum… Greycane," the man introduces himself with a nod of deference. "I am the eyes and ears of this town."
+
+"The mouth, more like," Bram offers from behind the bar.
+
+"I am also the bankroll of this establishment," he retorts with a knowing look at Bram.
+
+After a few pleasantries, Greycane leads the conversation around to the question of what he can do for a Free Company in Bastone. Hearing of your hunt, a light appears in his eyes.
+
+"The Son of Lord Arden's been the talk of the town. Word is he had been frequenting a certain sort of alley being less than noble. That's where they found his seal, the noble crest, bathed in blood. No body. The crust blame the common folk, but I think it's something else and I'm glad Davinish had the forethought to call you in."</string>
+  <string name="chp1_14_1__a">Location 14 – The Town Square
+
+Smells of cooking pots and the sound of fervent bartering roll over you. Glancing around, you meet the eyes of the destitute peering from dark alleys and crooked doorways. The square itself seethes with people who retreat to give your party a wide berth when they notice you, creating an island in the roiling sea of bodies.
+
+You come to another area bereft of people. At the heart of the square is a ten foot tall iron post driven permanently into the flagstones. Heavy links hang from welded bolts and a large ring of black soot scores the area at its base. Others you have seen of this kind are made from wood. How many people are they burning to warrant one made from iron?
+
+You canvas the area and discover that this functions as a crossroads between east and west Bastone and it seems no violent deaths have been discovered in West Bastone.</string>
+  <string name="chp1_15_1__a">Location 15 – The Shades
+
+Heading up the street you believe is the right choice, you push through crowds and navigate around huddled clumps of the homeless, squatting toad-like around small fires. The barking of vendors eventually gives way to sobbing and indistinct mewling noises as you enter a series of shadowed alleys. There are fewer and fewer people here and darkness hugs the street as you make your way up a narrowing avenue.
+
+You approach a ragged, cloaked figure as he daubs small, white circles on the wall with paint coated fingers. There are hundreds of them. He does not fully turn, but speaks in creaking tones over his shoulder.
+
+"Have you seen it? Has it seen you? Do you know the truth the Deepwood brings, as we do?"
+
+He turns, drawing a sickle from under his cloak. His distant gaze falls on you.
+
+The shadows burst with movement. With your attention drawn to the strange figure, you hadn't noticed the ambush you have walked into.
+
+
+Choose one:</string>
+  <string name="chp1_15_4__a">As the sickle rises, the closest of you casually steps up and backhands the man across the alley. He stumbles, crashing into the far wall and crumples to the ground, sickle clattering in the puddles of the street.
+
+Four or five figures scurry fearfully back into the darkness and limp away, muttering excitedly, "They know, they know!"
+
+A quick search through the man's pouch finds a handful of iron.</string>
+  <string name="chp1_15_4__c">You vow to be more vigilant in the streets of Bastone as you move on.</string>
+  <string name="chp1_15_5__a">You draw your weapons.
+
+The emaciated man calmly cleans under his fingernails with the point of his sickle.
+
+"What can you take that the Deepwood hasn't taken from us," he snarls, flaring his cloak. "What can you give us that it hasn't promised?"
+
+The alley explodes in a clash of weapons and a few distinct sprays of blood. The melee is short. An assailant lies in the gutter and several others have bolted into side passages, one with a pouch in their hand.</string>
+  <string name="chp1_15_5__c">Cleaning your weapons, you vow to be more vigilant in the streets of Bastone as you move on.</string>
+  <string name="chp1_15_6__a">Fear is this group's strongest weapon and it finds no purchase on you. Your weapons are already out of their sheathes. Your attackers are unprepared for a retaliation from trained warriors.</string>
+  <string name="chp1_15_6__c">After the first assailant falls under your assault with a wet thud, the others turn and vanish into the city alleyways trailing the words, "They know!" as they run.
+
+A quick inspection of the fallen reveals iron has scattered in the mud from a split pouch.</string>
+  <string name="chp1_15_6__e">You vow to be more vigilant in the streets of Bastone as you move on.</string>
+  <string name="chp1_15_7__a">This city's layout is not the intricate lattice of streets found in Thrace or the vast thoroughfares of Verum. A few quick questions with the locals describe the local avenues.</string>
+  <string name="chp1_16_1__a">Location 16 – The Watering Hole
+
+Rain trickles from an ill-hanging sign proclaiming this to be the 'The Watering Hole,' it is an apt name for this place, or at least the last part is. You enter the inn to the sight of gritty faces and dirty mugs. From the look of the men, this must be one of the dives of the Underways workers. You hold out your hand, palm up, giving the 'Pot's Peace' gesture to indicate you want no trouble and make your way to the bar. Eyes flash to the Free Company marks on your wrists as you pass.
+
+You approach the innkeeper and ask what he knows of the deaths. "I know I'm losing the pool. Jimmy, you're supposed to be dead by now," he shouts over your shoulder to a man in the corner. Men chuckle and go back to their drinks. "Lost three good patrons this month. Randle swears he knows, wait … perhaps you can help that dunce. You wanna know what he knows? He's at the stocks. Try to get him out, will you? He's not a bad kid, just doesn't know when to keep his mouth shut round the guards."</string>
+  <string name="chp1_17_10__c">Orange flames wreathe the fist-sized stones that burn in the iron brazier. You carefully lift the brazier to the lip of the wall and heave it over. Glowing streaks fill the air as the amber rains down on the man and the pack closing in on him. The brazier strikes the amber with a spark and flames engulf the scene below. White light fills your eyes and you instinctively raise your hands to ward them from the heat. A crack like thunder rolls over you and then recedes. You peer over the wall. Charred, twisted bodies and twitching limbs spew smoke. In the middle, you can make out the guard's body. It was a better way to go than what the rats had planned. At least this was quick.
+
+Descending the rope, you go to inspect the carcasses. Half a dozen are scattered around. They must have been attracted by the corpses, then found their way into the town. Crouching beside one of the hideous things you take a closer look.</string>
+  <string name="chp1_17_11__a">You wipe the ichorous blood from your weapons and kneel over the man's corpse. His throat has been torn out by a rat still twitching at his feet. He had managed to kill it just before the end, a last act of defiance. Nothing more to do for him, you move to one of the rats to investigate.
+
+You note the length of the tail, the color of the teeth and the clawed paws. This was a pup, not full grown. You know rats have dozens of pups…dozens. Where's the mother, though? A woman's scream pierces the Deepwood behind you. You're about to find out.</string>
+  <string name="chp1_17_12__a">The man leans on his sword visibly shaking, then stands straight collecting himself.
+
+"You saved my life. Thank you." The man turns to you as he cleans himself up. "I am Dane. I, I had to try and save her. Stupid to think I could. There were so many of them. For weeks now they have been throwing bodies off the wall and I was too cowardly to try to stop them. Then they threw her over. She was still alive. I saw her crawling. Then the rats came and dragged her into the trees. She may still be alive. Help me. Help her."
+
+You inspect one of the rat corpses as he explains. You note the length of the tail, the color of the teeth and the clawed paws. This was a pup, not full grown. You know rats have dozens of pups…dozens. Where's the mother though? A woman's scream pierces the Deepwood behind you. You're about to find out.</string>
+  <string name="chp1_17_13__a">You note the length of the tail, the color of the teeth and the clawed paws. This was a pup, not full grown. You know rats have dozens of pups…dozens. Where's the mother though? A woman's scream pierces the Deepwood behind you. You're about to find out.</string>
+  <string name="chp1_17_14__a">The bodies are too badly damaged. There is not much you can draw from them, but you doubt this was all of them. Confirmation comes as a woman's scream pierces the Deepwood behind you. Sometimes you hate being right.</string>
+  <string name="chp1_17_15__a">You look off to the treeline and check your compass. This item is near sacred to you as well as all Free Companies. It is the only chance you have of navigating your way back after you enter the Deepwood. You steel yourself and head in.</string>
+  <string name="chp1_17_15__c">The trail is not hard to follow. The sickly brush is torn and trampled by many feet. A few hundred yards from the city walls, you come across a large, circular depression littered with scraps and bones. Then you see her, the hulking rat-like form of the Broodmother. She is twice the height of a man. Her back undulates with rats that swarm around her. At her feet is the torn body of a woman, evidently the source of the scream. This must be the woman Dane was looking for. The Broodmother lifts her huge snout, testing the air. Her great head of rotten fur and gnawing teeth rolls toward you and, with ravenous hunger, her eyes meet yours.</string>
+  <string name="chp1_17_16__a">You look off to the treeline and check your compass. This item is near sacred to you as well as all Free Companies. It is the only chance you have of navigating your way back after you enter the Deepwood. You steel yourself and head in.</string>
+  <string name="chp1_17_16__c">The trail is not hard to follow. The sickly brush is torn and trampled by many feet. A few hundred yards from the city walls, you come across a large, circular depression littered with scraps and bones. Then you see her, the hulking rat-like form of the Broodmother. She is twice the height of a man. Her back undulates with rats that swarm around her. At her feet is the torn body of a woman, evidently the source of the scream. Perhaps this was why the guard was prepared to enter the woods. The Broodmother lifts her huge snout, testing the air. Her great head of rotten fur and gnawing teeth rolls toward you and, with ravenous hunger, her eyes meet yours.</string>
+  <string name="chp1_17_1a_a">Location 17 – The Eastern Tower
+
+You know you won't be able to find the collector before nightfall but you know exactly where the guards will be. Catching sight of the tower the man told you of, you head for the outer wall.
+
+The weather is worsening and rain runs down the stairway leading up Bastone's outer wall. You ascend the gray stone steps in search of the guards. It does not take long to find them. A squad is hunched around a brazier of slow burning amber, water tapping off their iron pot helms.
+
+You close the distance, shouting through the rain, "Are you the night watch?"
+
+"Who's asking?" one of them grunts giving you a brief sidelong glance before returning his gaze to the fire. Then he looks back, eyeing the mark on your wrists. Understanding dawns on him, and his eyes widen in fear. He goes to draw his sword as the other four turn to face you.</string>
+  <string name="chp1_17_2__c">Before his blade is fully drawn, the closest of you has his wrist and throat in your hands. You wrench him backwards, forcing him over the parapet. Terror seizes the man as nothing but air and the maw of the Deepwood open up below him. You hold him there and he immediately begins to spill all he knows and more besides. The other guards, shocked, have kept their distance allowing you to take in what he has to say.
+
+"Alright, alright! There's this corpse collector. It was his idea. He paid us to look the other way. Think we get what we deserve standing on this piss-covered wall? Course we took the iron. There! Over there!" He points to a crumbling section of the wall. These men have caused what has been happening in this town or have at least been complicit in its suffering.
+
+
+Choose one:</string>
+  <string name="chp1_17_3__a">As the man draws his weapon, the closest of you tries to grab him by the wrist and throat. He wrenches free, and with practised technique the other guards draw their blades too. They attack.</string>
+  <string name="chp1_17_3__c">The rain washes their blood over the lip of the wall and down the staircase. The bodies of the guards lay scattered around you. You did not get their confession, but justice was served. Leaving their equipment for the next guards who stand here, you begin to trudge along the wall looking for the place where the bodies were dumped.</string>
+  <string name="chp1_17_4__a">You open your hand showing iron. The squad leader looks at it for a moment, then smirks.
+
+"Think we'd trust you? You'd kill us the second we talked," as he draws his blade. "Men, bleed 'em." Having no choice but to protect their secret, they attack.</string>
+  <string name="chp1_17_4__c">The rain washes their blood over the lip of the wall and down the staircase. The bodies of the guards lay scattered around you. You did not get their confession, but justice was served. Leaving their equipment for the next guards who stand here, you begin to trudge along the wall looking for the place the bodies were dumped.</string>
+  <string name="chp1_17_5__a">You approach the leader with your hands outstretched in peace. He looks at you a moment, then motions to the marks on your wrists and smirks. "Think we'd trust you? You'd kill us the second we talked," as he draws his blade. "Men, bleed 'em." Having no choice but to protect their secret, they attack.</string>
+  <string name="chp1_17_5__c">The rain washes their blood over the lip of the wall and down the staircase. The bodies of the guards lay scattered around you. You did not get their confession, but justice was served. Leaving their equipment for the next guards who stand here, you begin to trudge along the wall looking for the place the bodies were dumped.</string>
+  <string name="chp1_17_6__a">You release the squad leader from your grasp. He plummets from the wall, impaling himself on the thick spike bed below. Before his screaming stops, you round on the squad. They are terrified, but they are still soldiers. Knowing their lives depend on it, they draw swords.</string>
+  <string name="chp1_17_6__c">The rain washes their blood over the lip of the wall and down the staircase. The bodies of the guards lay scattered around you. Leaving their equipment for the next guards who stand here, you begin to trudge along the wall looking for the place where the bodies were dumped.</string>
+  <string name="chp1_17_7__a">You haul him back over the parapet, dumping his body on the stones. You stand silent in the rain, your cold stares saying enough. The guards bolt for the stairs. They know their lives will be forfeited for these crimes but they can live another day at least. These are desperate times and people do stupid things.
+
+You head off towards the section of the wall that the guard leader mentioned.</string>
+  <string name="chp1_17_8__a">You come to a point in the parapet where faint blood stains can be seen on the crenellations. Peering over the wall you find what you have been looking for. At its base are the thick wooden stakes used in all settlements to ward off the denizens of the Deepwood. Among these stakes is also a matted mass of blood soaked grass and earth in the center of which is a small mound of corpses. You imagine these are fresh as this much meat would not last longer than a day in the Deepwood. This flesh pile is what calls the thing or things to the town.
+
+Oddly, you also see a rope hanging down from the parapet. Looking between the branches and limbs of the black trees you make out a figure. What could possess a person to go into the Deepwood alone? You have no time to ponder this as the figure rushes back toward the wall. Then you see them, a pack of giant rats the size of wolves enter your view, galloping across the space. A horde of festering fur and yellow teeth close in on a man in guard's uniform. He won't make it and he knows it. He turns and bellows defiantly at the rats as they hiss back.
+
+
+Choose one:</string>
+  <string name="chp1_17_9__c">You know the chance of him being alive when you reach the bottom is slim, but you have to try. Jumping from the wall, you grip the rope to slow your descent. It burns your hands and you grit back the pain. He is still alive as you reach the ground. A tremendous twitching rat lays dead at his feet. The brood is circling him, though, heads low and ready to pounce.</string>
+  <string name="chp1_19_1__a">Location 19 – The Banksmith
+
+You trudge the muddy streets and find the Banksmith. The building is made fully from brick rather than a cobbled clay and timber affair like most of the town. It is large and imposing like the two guards at its entrance. Gamel, the Banksmith, is a broad-shouldered man wearing a woven knot apron of fine leather, highlighted with years of coal and grease. The air in the room moves like murky water, heavy with soot and the smell of the forge. Looking behind the Banksmith, you can see iron ingots stacked high. A considerable wealth.
+
+"If you need shaping, I can do that. Want to exchange goods, my son Tam would usually take care of you, though I've not seen him today. He's got more fingers for the math," says the Banksmith, holding up a hand with only three digits.</string>
+  <string name="chp1_19_1__c">The Banksmith wants to talk business and nothing more. As soon as you use words like <i>murder</i>, he suddenly decides another customer is more important so you grudgingly head back out into the rain.
+
+
+Choose a location to go to:</string>
+  <string name="chp1_20_1__a">Location 20 – The Stockades
+
+There are five stockades in the circle. Only one is currently occupied. A soggy young man with thick, curly red hair sits dejectedly in the rain. A solitary guard leans under an archway not far off paying little heed.
+
+At the sight of you the man brightens, "Psst! Hey. Can you help me? Honest, I didn't do nothing. It's the guards: corrupt as witchcraft. Iron's more important than blood to them. You're Free Company, right? You can do what you want. Come on. Just lift that pin and I'll do anything."
+
+You have the power to requisition this man if he has what you need.
+
+
+Choose one:</string>
+  <string name="chp1_20_2a__a">You easily pull the iron latch pin from the stockade. Randle massages his wrists. "Pot's Peace shine upon you, my friends. I owe you." You tell him what you need and he readily agrees to tell you what he knows. "There's this old body collector over in the Burrows. He's had me looking for a buyer for a story he's selling. Says he knows who's responsible for the deaths. He'll want paying proper, though."</string>
+  <string name="chp1_20_3__a">"Leave me here to rot and wallow? You made an oath! You're supposed to protect the people! I'm the people! Protect me!"
+
+You leave him ranting in the stockade.
+
+
+Choose a location to go to:</string>
+  <string name="chp1_21_1__a"><span style="font-size: 200%">Location 21</span> – The Wire Road and the Deepwood Approach</string>
+  <string name="chp1_21_1__c">在这片荒野的深处，浓郁的绿色泥浆像是有生命一般，吸附着你的靴子。每一步都像是在和地心引力做斗争，每一步都是向未知的挑战。你的双手紧紧抓住铁缆，它像是从这黑暗森林的古老树干中生长出来的粗大血管，生命的脉搏在其中跳动。
+
+离开人类文明的标志——维鲁城后，这条铁缆是你唯一的导向。它在你身后发出低沉的嗡嗡声，仿佛在述说着那些还未揭露的秘密。那些曾经熟悉的痕迹，消失在黑暗中，只剩下这根铁缆上的弦音在回荡。你的朋友们，他们的面孔如同幻灯片一样在脑海中闪过，每一个消失的笑容都像是一道伤痕，刻在你的心上。
+
+在这片丛林中，所有的一切都带着威胁。那些蜿蜒的蔓藤，它们像蛇一样在你耳边嘶嘶作响。那些黑色的树干上，长满了诡异的粉红色瘤子，像是某种恶心的花朵。它们阻挡了你的视线，让你无法看透这片森林的深处。任何动静都可能引发你的警觉，但你不能再被每个声音所困扰，你需要专注，需要找到前进的路。
+
+这座堡垒城市巴斯通，它像一个古老的巨人，在风雨中屹立不倒。它的高墙犹如巨大的山峦，横亘在你的前方。你走近时，发现墙基处的东西更加引人注目。那是一个古老的铜盘，上面刻着一些古老的符号和地图。你毫不犹豫地走上前去，你的手指在那些符号上轻轻地滑过，仿佛在读取一段被封存的记忆。</string>
+  <string name="chp1_21_2__a">A driving rain batters the city walls as its ancient gray stones stand in defiance of the Deepwood's reaching limbs and the beasts that stalk beneath them.
+
+The deafening roar of the downpour hinders your ability to detect the sound of any approaching threats. You stay alert, noting the danger.
+
+At the base of the walls you find jumbled piles of branches and bone collected together like nests.
+
+In one of the scattered nests lies a jawbone. Most probably human. Woven into the twigs and branches of another nest is a cracked and broken mask. Feminine in design, the once full face mask of delicate ceramic now lies shattered.
+
+What would a Thracian noblewoman's mask be doing here? The question is left unanswered as a glint catches your eye.</string>
+  <string name="chp1_21_2__c">Why would anyone leave something so valuable on this side of the wall?</string>
+  <string name="chp1_21_3__a">The travel has been hard and you think it prudent to get out of this deafening rain rather than be distracted.
+
+There is plenty more to do here before nightfall.</string>
+  <string name="chp1_22_1__a">As you approach the thick wooden gate, a small slat slides unevenly open and a weary, coal-caked face peers out.
+
+Moments pass as he eyes you with suspicion taking inventory of your many weapons. Then one of you reveals the mark on your wrist. He grimaces, "Free Company …eerrr… let me get this open."
+
+The slat slams shut and you hear chains strain as a mechanism pulls the gate open, swinging out just wide enough to squeeze through. You move into the gateway passage and find it blocked ahead by an iron portcullis, a second layer of defense creating a quarantine area. In the passage with you is a single table, lit by a foul smelling lantern on the wall. You hand him your papers.
+
+"I'm sure you know the drill," the guard urges as he thumbs through them.
+
+Arms extended out from your sides, he raps against you repeatedly with a short hollow tube of wood. He nods, then sniffs, satisfied you have brought nothing of the Deepwood in with you.
+
+"You've not come too soon. More bodies last night," he says as he moves to the rickety table in the corner to mark more paperwork. "Papers say you're five."
+
+A grim silence from you answers his next question.
+
+"Right, then. An oath fulfilled I suppose." He looks uncomfortably away and motions toward a log book with ink and quill beside it. "Make your mark."</string>
+  <string name="chp1_22_2__a">The guard seals the paper with wax and nods to those outside the portcullis. With a slow grind, the iron gate raises to let you through. You understand your task - find whoever or whatever is responsible for the unexplained deaths. As you step out onto the main thoroughfare of Bastone, a sea of unwashed citizens churn through the mud going about their daily struggle.
+
+"Welcome to my glorious Bastone," a voice chimes from your right.
+
+You all turn to the voice. A street urchin, caked in dirt under an explosion of dark hair, leans nonchalantly against the outer wall.
+
+"If I hadn't been so clever I might have tried to lighten your pockets. Looks like you're too much for me though, right? You come out of the green all bristling with blades fresh from the wire. Nope, me ma made no fool and that's why I'll let you pass without paying my toll."
+
+"Now, I know what you're thinking, we need that kind of charitable citizen to show us around. Well usually I'd say no, what with all my other responsibilities around town. But for you, I make an exception. 4 iron a day and I make this place feel like home for you. Get you anything or anyone you need, take you anywhere you want and keep you from running into the less reputable round here."
+
+
+Choose one:</string>
+  <string name="chp1_22_4a_a">Encouraged by the fact you haven't left, the boy redoubles his efforts. "Midge is the name and there's none finer to see you round these parts. It is clear you've no more need of muscle, but I've another skill. I can read. That's right. I stand before you as scout, guide, scholar and sage."
+
+Midge pushes his way between you to block your way to the center of town. "Also there may be four of you but I think you need another pair of eyes," he grins and shows a spread of four iron coins in his hand. "You should really take more care with these." He holds out the money to you. "See, I told you you'd not pay my toll," he says as he hands them back. "So, do we have a deal then?"
+
+
+Choose one:</string>
+  <string name="chp1_22_5__a">"Inn, tavern, or pub?" Midge grins. You're not sure what the difference is between the last two, but correct his expectations and explain that you need to know more about the bodies.
+
+He shrugs, "Been nasty. They've been finding bodies and bits of bodies all over the slums for weeks now. Nobody does nothing until a noble was found dead and scattered about an alley."
+
+Realization widens in his eyes. "Are you them, then? The Oathsworn?"
+
+You nod and Midge grimaces. "Bugger, we didn't agree no hazard pay."
+
+Ignoring the boy's comment you begin to question him about the town. He tells you of various locations and you begin to form a plan for the hunt. Bastone has many of the usual landmarks and there is a Banksmith and Apothecary to trade with for the supplies you may need for what is to come.</string>
+  <string name="chp1_22_6__a">Dozens of streets and alleys spread out like a spider web from the town gates. You have lived in Verum so a small, gnarled burg like Bastone should be easy enough to find your way around. You're sure you'll be able to pick up the trail and that there may even be a Banksmith or Apothecary to trade with for the supplies you may need for the hunt.</string>
+  <string name="chp1_24_1a_a">Location 24 – The Burrows
+
+You find the informant on the other side of town as daylight begins to wane.
+
+He is not much to look at. Just another grimy face. He nervously shifts from foot to foot outside a ramshackle terrace. Behind him you can see what must be his family peering nervously from a window. They look hungry.
+
+"You need words, we need food, 3 iron and I'll tell you what you're needing."
+
+
+Choose one:</string>
+  <string name="chp1_24_2__a">"I suppose I have no choice. I'll take 2 iron. They'll eat for a while now. Thank you."</string>
+  <string name="chp1_24_2__c">"It's the dead you need to find. People live, people die," he gestures to the wretched homeless lining the alley on either side of the street. "When they do, the collector comes to clear. It used to be me. Take bodies, take names if they had any, and burn them. No sickness then."
+
+"Burning's expensive though. Hard to find people to go out to the Deepwood and cut the wood. Especially after that lot didn't come back. Collector gets his iron for each body he cleans from the streets. Costs nothing to just throw a body over the wall. Not right though. That ain't the job. That cur, Jeffit, undercut me and got the work. But I've seen him going to the wall and paying those guards at the eastmost tower. They look the other way and over they go. You find the bodies, you find the answers. And if you happen to kill that whoreson who stole my livelihood, then good riddance."</string>
+  <string name="chp1_24_3__a">"I lost a young'un a week back and you come here with all your finery trying to haggle," the man says pointing to your iron weapons. He doubles the price and will not move on it.</string>
+  <string name="chp1_24_3__c">"It's the dead you need to find. People live, people die," he gestures to the wretched homeless lining the alley on either side of the street. "When they do, the collector comes to clear. It used to be me. Take bodies, take names if they had any, and burn them. No sickness then."
+
+"Burning's expensive though. Hard to find people to go out to the Deepwood and cut the wood. Especially after that lot didn't come back. Collector gets his iron for each body he cleans from the streets. Costs nothing to just throw a body over the wall. Not right though. That ain't the job. That cur, Jeffit, undercut me and got the work. But I've seen him going to the wall and paying those guards at the eastmost tower. They look the other way and over they go. You find the bodies, you find the answers. And if you happen to kill that whoreson who stole my livelihood, then good riddance."</string>
+  <string name="chp1_24_4__c">"I …I don't know what to say. Thank you and those who watch over you. Lost my little girl, Espa, a week back," the man utters, a tear in his eye. "This might just save the rest."
+
+"It's the dead you need to find. People live, people die," he gestures to the wretched homeless lining the alley on either side of the street. "When they do, the collector comes to clear. It used to be me. Take bodies, take names if they had any, and burn them. No sickness then."
+
+"Burning's expensive though. Hard to find people to go out to the Deepwood and cut it. Especially after that lot didn't come back. Collector gets his iron for each body he cleans from the streets. Costs nothing to just throw a body over the wall. Not right though. That ain't the job. That cur, Jeffit, undercut me and got the work. But I've seen him going to the wall and paying those guards at the eastmost tower. They look the other way and over they go. You find the bodies, you find the answers. And if you happen to kill that whoreson who stole my livelihood, then good riddance."</string>
+  <string name="chp1_24_5__a">You surround the man and finger your weapons. His eyes dart between you. You ask him what he knows. He shudders when you make eye contact with his family through the window and he nods, raising his hands in appeasement.
+
+"It's the dead you need to find. People live, people die," he gestures to the wretched homeless lining the alley on either side of the street. "When they do, the collector comes to clear. It used to be me. Take bodies, take names if they had any, and burn them. No sickness then."
+
+"Burning's expensive though. Hard to find people to go out to the Deepwood and cut the wood. Especially after that lot didn't come back. Collector gets his iron for each body he cleans from the streets. Costs nothing to just throw a body over the wall. Not right though. That ain't the job. That cur, Jeffit, undercut me and got the work. But I've seen him going to the wall and paying those guards at the eastmost tower. They look the other way and over they go. You find the bodies, you find the answers. And if you happen to kill that whoreson who stole my livelihood, then good riddance."</string>
+  <string name="chp1_24_6__a">You surround the man, his head whipping between you as you walk slowly around him. You press him for what he knows, but looking back at his family, he stands tall. "I lost a young'un a week back and you come at me like this? You wanna know anything, you're paying double. Bunch of curs."
+
+The man defies you and won't be browbeaten.</string>
+  <string name="chp1_24_6__c">"It's the dead you need to find. People live, people die," he gestures to the wretched homeless lining the alley on either side of the street. "When they do, the collector comes to clear. It used to be me. Take bodies, take names if they had any, and burn them. No sickness then."
+
+"Burning's expensive though. Hard to find people to go out to the Deepwood and cut the wood. Especially after that lot didn't come back. Collector gets his iron for each body he cleans from the streets. Costs nothing to just throw a body over the wall. Not right though. That ain't the job. That cur, Jeffit, undercut me and got the work. But I've seen him going to the wall and paying those guards at the eastmost tower. They look the other way and over they go. You find the bodies, you find the answers. And if you happen to kill that whoreson who stole my livelihood, then good riddance."</string>
+  <string name="chp1_25_1__a">Location 25 – A Tower
+
+The guards here eye you warily as you ask to see their logbooks. They seem uncomfortable, but everything does appear to be in order after your questions and investigation. Whatever they might be hiding is probably about as innocuous as their nightly dice games.
+
+
+Choose a location to go to:</string>
+  <string name="chp1_2_1__a">Location 2 – The Archive
+
+You find the town archives and an irksome clerk named Millus. "The deaths, I presume," the clerk says dismissively. "I suppose you should follow me then. Everything is collected. You will not find our numbers wanting. Move nothing!"
+
+The records Millus helps you sort through deal with a large list of missing persons, a pile dedicated to what appear to be suicides, and a tally of the local dead with the cause of death inked beside each name. The details are grisly, and some descriptions have no names attached where only bits of bodies and blood trails were all that remained, yet left no doubt that there was a killing.
+
+"I don't know why you bother with the peasantry and their ilk. Their numbers wax and wane like the sun," he says derisively. "What should be of concern is my timber figures. Nine cords of wood marked used last month for various reasons. Mostly funerals. But records show only seven cords being pulled in. Two cords unaccounted for. What is this world coming to? Either the gatekeepers are not doing their job or someone's lying, and there's nothing worse than lying on a census. That's the real crime here!"
+
+
+Choose a location to go to:</string>
+  <string name="chp1_3_1__a">Location 3 – The Apothecary
+
+You have heard there is an Apothecary of sorts in this quarter, situated on the rooftop of a tenement. When you arrive you find a stand-alone shack surrounded by gardens and a queue of people.
+
+Forcing your way to the door you enter and find a room which is something between a library, a curiosity shop and a vegetable stand. A young woman is hunched over a man sitting on a stool, tending a wound.
+
+"Wait your turn," the woman says angrily without looking up. When you make no move to leave, she wheels on you, then stops.
+
+A moment of panic crosses her face, but she quickly rights herself, "Oathsworn…You'd better be dying or know someone who's dying to barge in like this…"
+
+You assuage her concerns and tell her you want to know about the rising body count in the town. "Well I wouldn't know about that. The dead don't tend to come to me for pulses, now do they?"
+
+"No survivors?" you ask.
+
+"None that I heard of. Not that I go looking. I've got enough to handle here with the living." She turns back to the man on the stool. As she does, a rock crashes through the lone window in the room, showering it with glass.
+
+"You killed my Da!! You Witch!" Comes a small boy's voice from outside. "She cursed him, I saw it!" This is followed by the sound of small feet running away across the rooftop.
+
+The apothecary is visibly shaken. You ask her what that was about, but she busies herself picking up glass and refuses to talk any further. If she knew anything, she was not forthcoming about it and will be less so now.</string>
+  <string name="chp1_4_10__a">You coat the area in oil and cleave to the shadows, lying in wait for the trap to be sprung. Twilight is settling beyond the hole when the scratchings of clawed feet can be heard outside. A head the size of a wolf's juts into the gap followed by a nightmare of festering fur and yellow teeth as it presses its bulk into the passage. Behind it another head appears. Then another. And another. One turns towards you and hisses … you strike your flint.
+
+Flames engulf the brood. Squealing, writhing bodies roll on the ground. You dispatch the remaining ones quickly, disgust strengthening your blows.
+
+Now for whatever is out there.</string>
+  <string name="chp1_4_11__c">The place Sedric leads you to is a junction that runs along the outer wall of the city. You know this as you can see the treeline of the Deepwood through a hole where a solitary foundation stone has somehow shifted out of place. Blood stains highlight the opening on all sides, concentrating on this point, as if bodies or body parts have been forced through the gap.
+
+"He's not alone you know? The rat that bit that arm." You turn, listening to the ratcatcher.
+
+"He was a pup, certainly. They look different. Mothers have dozens of pups," he murmurs, fingering the scores of tracks leading to the hole. "Dozens."</string>
+  <string name="chp1_4_12__a">You coat the area in oil and cleave to the shadows, lying in wait for the trap to be sprung. Twilight is settling beyond the hole when the scratchings of clawed feet can be heard outside. Sedric breathes heavily in anticipation for what's to come. He seems to enjoy his work.</string>
+  <string name="chp1_4_12__c">A head the size of a wolf's juts into the gap followed by a nightmare of festering fur and yellow teeth as it presses its bulk into the passage. Behind it another head appears. Then another. And another. One turns towards you and hisses… you strike your flint.
+
+Flames engulf the brood. Squealing, writhing bodies roll on the ground. You dispatch the remaining ones quickly, disgust strengthening your blows.
+
+Now, for whatever is out there.</string>
+  <string name="chp1_4_13__a">You squeeze through the small hole and find yourselves in the no man's land between the city walls and the Deepwood. You look off to the treeline and check your compass. This item is near sacred to you as well as all Free Companies. It is the only chance you have of navigating your way back after you enter the Deepwood. You steel yourselves and head in.</string>
+  <string name="chp1_4_13__c">"She won't be far," Sedric says, looking around nervously. He had asked to come and you start to wonder why, but then remember you could ask yourself the same question. Sedric easily leads you along a trail of sickly brush, torn and trampled by many feet.
+
+Something large moves and you crouch to watch. Sedric stifles an excited laugh. The rat has a silhouette the size of a wolf, but low and barrel-like with a smell of rot emanating from it. It has not seen you yet, and in the hopes of keeping it that way, one of you draws a blade and lashes out, burying it deep into the thing's skull. It was a solid kill, but as the hissing sound rises around you, you realize it was futile.
+
+The Deepwood bursts with vile life as the hulking ratlike form of the Broodmother parts the branches to your side. Her back undulates with rats that swarm around her as she lifts her huge snout, testing the air. Her great head of rotten fur and gnawing teeth rolls towards you and, with a ravenous hunger, her eyes meet yours.</string>
+  <string name="chp1_4_14__a">You squeeze through the small hole and find yourselves in the no man's land between the city walls and the Deepwood. You look off to the treeline and check your compass. This item is near sacred to you as well as all Free Companies. It is the only chance you have of navigating your way back after you enter the Deepwood. You steel yourself and head in.</string>
+  <string name="chp1_4_14__c">"She won't be far," Sedric says, looking around nervously. He had asked to come and you start to wonder why, but then remember you could ask yourself the same question. Sedric easily leads you along a trail of sickly brush, torn and trampled by many feet. Half a league from the city walls you come across a large, circular depression littered with scraps and bones. That is when you see her, the hulking rat-like form of the Broodmother. She is twice the height of a man. Her back undulates with rats that swarm around her as she lifts her huge snout, testing the air. Her great head of rotten fur and gnawing teeth rolls toward you and, with a ravenous hunger, her eyes meet yours.</string>
+  <string name="chp1_4_15__a">You squeeze through the small hole and find yourselves in the no man's land between the city walls and the Deepwood. You look off to the treeline and check your compass. This item is near sacred to you as well as all Free Companies. It is the only chance you have of navigating your way back after you enter the Deepwood. You steel yourself and head in.</string>
+  <string name="chp1_4_15__c">The trail is not hard to follow. The sickly brush is torn and trampled by many feet. Half a league from the city walls you come across a large, circular depression littered with scraps and bones. That is when you see her, the hulking ratlike form of the Broodmother. She is twice the height of a man. Her back undulates with rats that swarm around her as she lifts her huge snout, testing the air. Her great head of rotten fur and gnawing teeth rolls towards you and, with ravenous hunger, her eyes meet yours.</string>
+  <string name="chp1_4_16__a">You loom over the prone vagrant, secure your weapon belt and ask him what he knows about this place.</string>
+  <string name="chp1_4_17__a">The man looks fearfully at you. "I didn't do it!" he squeaks. "I heard it, though. There." He points at a sewer hatch nearby. Inspecting the hatch, you find that it is not fixed and sits off-kilter. Your nose protests, but your guts tell you this is it.</string>
+  <string name="chp1_4_18__a">You drop a couple of flecks of iron at the man's feet, the small round coins clinking on the cobbles. He perks up. "I seen nothing. I was hid, but I heard it, though. Over there." He points at a sewer hatch nearby. Inspecting the hatch, you find that it is not fixed and sits off-kilter. Your nose protests, but your guts tell you this is it.</string>
+  <string name="chp1_4_19__a">"Kill me?" he smirks, "Just another body then. No one notices and I got nothing worth staying for. Buy me some food and I can point you in the right way. Beat me and you get nothing."</string>
+  <string name="chp1_4_1__a">Location 4 – The Alley
+
+Using the information you have gathered, and with the help of a couple of street urchins from the east side, you find the spot where the Noble was killed.
+
+You walk the shady alley. Even the drunk and dying avoid the end of this street. Bloodstains still spatter the walls, the rain running down them having little effect on the marks. You search the area for something to help in your task.</string>
+  <string name="chp1_4_2__a">Your eyes follow trickling water down the walls, watching as it gathers in the gutters then runs toward a nearby sewer covered with a hatch. Curious. You haven't noticed other large hatches - a coincidence? Examining the hatch, you find it is not fixed and sits off-kilter. Your nose protests, but your guts tell you this is it.</string>
+  <string name="chp1_4_3__a">The blood seems sprayed in every direction and anything else of use has been washed away or taken. Even what remains of a murder has value in these streets. Digging deeper into the abandoned refuse on the sides of the street, one of you disturbs a nest of angry rats.</string>
+  <string name="chp1_4_4__a">You squeeze through the hatch into a dark maze of rough-hewn passages, your torches glowing pale blue in the noxious air. Ankle-deep in waste and muck, you slog through winding tunnels, kicking aside rats and brushing away cobwebs, looking for any clue as to what might be behind this.
+
+Around one corner you stop. There is a splashing. A thick heavy motion lumbers toward you from a shadowy side passage. Sounds of chittering and nervous clicking conjure memories of past ambushes prompting each of you to draw your weapons.
+
+Whatever it is, it is low and hunched. This is no rat. This is something much larger and it's moving fast.</string>
+  <string name="chp1_4_5__a">Before it is even clearly in the light, practiced moves see your weapons passing through the approaching mass. There is a wailing scream.
+
+You step back to see what your handiwork has brought.
+
+A filthy man.
+
+A ratcatcher, by the look of his gear, lays at your feet. He was not what you were looking for.
+
+The body stops twitching as you clean your weapons. Not your finest moment but there is no room for guilt here. A rapid search of the corpse reveals nothing of value.
+
+Faces stern, you press on.</string>
+  <string name="chp1_4_6__a">As it scampers closer, you can make out a hunched mass of ragged hair. You ready your weapons at the approach.
+
+As it enters the flickering light from your torches, a man's face emerges. A ratcatcher from the look of him.
+
+You!" He shouts, "Have you seen it?" He notices your weapons drawn. "You have! Good! Come, you must see this." He turns, but then cautiously looks back.
+
+"Don't eat any of the rats. They're mine," he glares, showing broken teeth.
+
+At that, he scurries off the way he came at a surprising speed.
+
+It's not much but it is the only thing you have. You follow.
+
+The little man is fast and, in this confined space, it is difficult to keep up.</string>
+  <string name="chp1_4_7__a">You wade through the muck trying to pick up a trail. The sewers are a labyrinth of criss-crossing tunnels. More than once, things bite at you from beneath the water and at one point a swarm of small dark shapes descend upon you.</string>
+  <string name="chp1_4_8__a">You enter a small chamber. Bones are strewn across the floor and heaps of rags dot the area. Oddly, a pile of books is carefully stacked against one wall. You wonder how this could smell worse than the passages you were just in. The ratcatcher is scrabbling through one of the piles then rises, wielding something over his head. You realize it's a dismembered arm.
+
+"Look at the bites here. See? Rats. The hand is calloused. A farmer, my guess. From the Underways. Mushrooms and roots. His nails, long and chipped. Good digger. Two things I know are men and rats, but never nothing like this…" he turns the arm over and puts his finger deep into a blackened wound.
+
+"The tooth that bit this arm…"
+
+He looks at you with a serious glare and holds his thumb and forefinger six inches away from each other. You ask him if he knows where the rat came from.
+
+He looks up at you almost excited. He nods, "Let Sedric join the great hunt and I'll take you."
+
+
+Choose one:</string>
+  <string name="chp1_4_9__c">After several hours, you eventually find a junction that runs along the outer wall of the city. You can see the Deepwood through the hole where a mammoth foundation stone has somehow shifted. Blood trails concentrate on this point from all directions as if bodies or body parts have been forced through the gap. The trail carries through the opening and leads off into the Deepwood. In the blood stains you make out the tracks of several clawed footprints. You get the distinct impression there is more than one of these things.
+
+
+Choose one:</string>
+  <string name="chp1_7_1__a">Location 7 – The Underways
+
+Ancient wooden doors mark the entrance to the underways below the city. Inside, looming passages of moist soil, well timbered up and tended, lead ever downward. Women with tied back hair carry buckets of roots or yokes of water on their shoulders as men work the dark loam, sweating in the dull glow of amber lanterns.
+
+"I know my workers and you are not them," an authoritative female voice announces. It is a slight woman with bright eyes, dressed in a man's leather farm clothes. She points at your wrists fearlessly. "Oathsworn. Good. Let's make this fast. I am Celeste. Overseer."
+
+You explain why you are here. She takes it in and replies, "Nothing amiss down here, yeah, in the past three months. I have lost four, but that has all been above ground. Suicide? Witches? Whatever else stalks the damned streets above. You tell me. I have my men leave in pairs now. No one walks alone upside. Only fool runners like Randle do that. And I've not seen him. He's probably face down in a ditch or face down in that inn the boys go to."
+
+
+Choose a location to go to:</string>
+  <string name="chp1_epi_1__a">With the screeching finally silenced, the mass of rotted fur lies still. Taking no chances, you hack off the Broodmother's head and burn the body. The Deepwood may snuff out the flames, but it will at least consume this corruption. In the den you find several items of value.
+
+When you arrive back at Bastone, you are met by a squad of guards.
+
+"Our Lord Davenish heard of your foray into the Deepwood. Have you found the beast?" says the Sergeant.
+
+You raise the severed head of the Broodmother to the guard's face. The men recoil.
+
+"Well… well done. I have been instructed to give you this iron in payment and to tell you that Lord Davenish would meet with you tomorrow morning. He has paid for your lodgings at The Broken Oak Inn during your stay. I would suggest retiring there now as his lordship will not suffer tardiness tomorrow."
+
+You hand the guard the head and take the iron.</string>
+</resources>
